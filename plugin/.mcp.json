@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "firstflag": {
+      "type": "http",
+      "url": "https://api.firstflag.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FIRSTFLAG_API_KEY}",
+        "X-FirstFlag-Client": "firstflag-agent/0.1.0"
+      }
+    }
+  }
+}

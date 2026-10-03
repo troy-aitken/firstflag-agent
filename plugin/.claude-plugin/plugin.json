@@ -1,0 +1,14 @@
+{
+  "name": "firstflag-agent",
+  "displayName": "FirstFlag Agent",
+  "version": "0.1.0",
+  "description": "/signal-based <client-domain>: run signal-based outbound for any client with one FirstFlag key. Detects buying signals, finds the right person, verifies the email, writes a fact-checked first email, and pushes approved leads to EmailBison, Smartlead, Instantly or CSV.",
+  "author": {
+    "name": "FirstFlag",
+    "url": "https://firstflag.io"
+  },
+  "homepage": "https://firstflag.io",
+  "repository": "https://github.com/troy-aitken/firstflag-agent",
+  "license": "MIT",
+  "keywords": ["outbound", "signals", "gtm", "agency", "cold-email", "emailbison", "smartlead", "instantly"]
+}

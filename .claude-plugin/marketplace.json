@@ -1,0 +1,14 @@
+{
+  "name": "firstflag",
+  "description": "Signal-based outbound for Claude Code, powered by the FirstFlag API",
+  "owner": {
+    "name": "FirstFlag"
+  },
+  "plugins": [
+    {
+      "name": "firstflag-agent",
+      "source": "./plugin",
+      "description": "/signal-based <client-domain>: buying signals, the right person, a verified email and a fact-checked first email for any client, pushed to your sequencer"
+    }
+  ]
+}
